@@ -10,3 +10,7 @@ The Top Score is 12
 
 [Play The Game] (https://aditi-sa.github.io/DifferOrDie-MemoryGame/)
 
+
+Note:
+1. npm install
+2. yarn start
