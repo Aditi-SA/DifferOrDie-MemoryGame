@@ -1,0 +1,23 @@
+body {
+  background-image: url("./assets/background1.png");
+}
+
+.jumbotron {
+  background: none;
+}
+
+.jumbotron p {
+  font-size: 1.5em;
+}
+
+.clickableImgs {
+  background-image: url("./assets/background2.jpg");
+  height: auto;
+  width: auto;
+}
+
+img {  
+  width: 10%;
+  height:25%;
+  margin: 30px;
+}
