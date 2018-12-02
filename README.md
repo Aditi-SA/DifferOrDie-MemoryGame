@@ -6,7 +6,7 @@ A simple game, based on REACT that tests your memory skills.
 In the project directory run the command :
 ### `npm install` or `yarn install`
 
-### `yarn start'
+### `yarn start`
 
 Open [http://localhost:3000](http://localhost:3000) to view the application in the browser.
 
