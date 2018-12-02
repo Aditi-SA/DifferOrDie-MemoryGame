@@ -2,15 +2,16 @@
 
 A simple game, based on REACT that tests your memory skills.
 
-Game begins when you start clicking of the displayed picture. Continue clicking different pictures until you have reached the topScore of 12.
+## Run the application
+In the project directory run the command :
+### `npm install` or `yarn install`
 
-Clicking same image more than once will end the game and your score will reset to 0.
+### `yarn start'
 
-The Top Score is 12
+Open [http://localhost:3000](http://localhost:3000) to view the application in the browser.
 
-[Play The Game] (https://aditi-sa.github.io/DifferOrDie-MemoryGame/)
-
-
-Note:
-1. npm install
-2. yarn start
+## Instructions:
+* Game begins when you start clicking on the displayed pictures. 
+* Continue clicking different pictures, until you have reached the topScore of 12.
+* Clicking same image more than once will end the game and your score will reset to 0.
+* The maximum achievable Top Score is 12.
